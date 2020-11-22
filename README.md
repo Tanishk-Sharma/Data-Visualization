@@ -13,4 +13,4 @@ In this repo, we plot the different graphs using the Iris dataset:
 * Histograms and Boxplots
 * Line and Scatter plots
 
-In this <a href="https://tanishkblog2020.wordpress.com/2020/11/20/5-most-frequent-charts-for-visualizing-data/">blog post</a>, I have discused on each of the above charts in brief.
+In this <a href="https://tanishkblog2020.wordpress.com/2020/11/20/5-most-frequent-charts-for-visualizing-data/">blog post</a>, I have discussed on each of the above charts in brief.
